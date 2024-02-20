@@ -1,4 +1,4 @@
-package com.litovskiy.preproject3_1_2;
+package com.litovskiy.preproject3_1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

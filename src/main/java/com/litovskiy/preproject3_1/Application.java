@@ -1,4 +1,4 @@
-package com.litovskiy.preproject3_1_2;
+package com.litovskiy.preproject3_1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

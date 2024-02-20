@@ -1,10 +1,10 @@
-package com.litovskiy.preproject3_1_2.controller;
+package com.litovskiy.preproject3_1.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.*;
-import com.litovskiy.preproject3_1_2.model.User;
-import com.litovskiy.preproject3_1_2.service.UserService;
+import com.litovskiy.preproject3_1.model.User;
+import com.litovskiy.preproject3_1.service.UserService;
 
 @Controller
 public class UserController {

@@ -1,6 +1,6 @@
-package com.litovskiy.preproject3_1_2.service;
+package com.litovskiy.preproject3_1.service;
 
-import com.litovskiy.preproject3_1_2.model.User;
+import com.litovskiy.preproject3_1.model.User;
 
 import java.util.List;
 
